@@ -1,14 +1,14 @@
 {
-  "name": "eslint-config-template",
+  "name": "eslint-config-decart",
   "version": "0.1.0",
-  "description": "An eslint config template",
+  "description": "Shared eslint config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paulzerkel/eslint-config-template.git"
+    "url": "https://github.com/dcrtit/eslint-config-decart.git"
   },
   "keywords": [
     "eslint",
@@ -18,7 +18,7 @@
   "author": "Paul Zerkel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/paulzerkel/eslint-config-template/issues"
+    "url": "https://github.com/dcrtit/eslint-config-decart/issues"
   },
-  "homepage": "https://github.com/paulzerkel/eslint-config-template"
+  "homepage": "https://github.com/dcrtit/eslint-config-decart"
 }
