@@ -15,7 +15,7 @@
     "eslintconfig",
     "javascript"
   ],
-  "author": "Paul Zerkel",
+  "author": "Leonid Lupenko",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dcrtit/eslint-config-decart/issues"
