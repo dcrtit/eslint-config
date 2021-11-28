@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-decart",
+  "name": "eslint-config",
   "version": "1.0.0",
   "description": "Shared eslint config",
   "main": "index.js",
