@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "@dcrtit/eslint-config",
   "version": "1.0.0",
   "description": "Shared eslint config",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dcrtit/eslint-config-decart.git"
+    "url": "git+https://github.com/dcrtit/eslint-config-decart.git"
   },
   "keywords": [
     "eslint",
@@ -27,5 +27,6 @@
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-unicorn": "^31.0.0",
     "eslint-plugin-vue": "^7.7.0"
-  }
+  },
+  "dependencies": {}
 }
